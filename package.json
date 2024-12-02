@@ -2,9 +2,9 @@
   "name": "express-cloud-run-api",
   "version": "1.0.0",
   "description": "API Express.js untuk Cloud Run",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1",
