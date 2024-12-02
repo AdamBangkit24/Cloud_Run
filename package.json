@@ -1,0 +1,19 @@
+{
+  "name": "express-cloud-run-api",
+  "version": "1.0.0",
+  "description": "API Express.js untuk Cloud Run",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^11.0.0",
+    "uuid": "^8.3.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.19.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
